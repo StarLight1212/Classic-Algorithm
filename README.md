@@ -7,11 +7,13 @@ This repository is dedicated to sharing open-source implementations of classic a
 Currently, this repository includes the following classic algorithms:
 
 - Ant Colony Optimization
+- [Particle Swarm Optimization](https://github.com/StarLight1212/Classic-Algorithm/blob/main/Classic%20Mathematics%20Model/ParticleSwarmOptimization.py)
 - [Simulated Annealing](https://github.com/StarLight1212/Classic-Algorithm/blob/main/Classic%20Mathematics%20Model/SimulatedAnnealing.py)
+- [Ant Colony Optimization](https://github.com/StarLight1212/Classic-Algorithm/blob/main/Classic%20Mathematics%20Model/AntColonyOptimization.py)
 - Genetic Algorithm
 - Particle Swarm Optimization
-- Cellular Automata
-- Monte Carlo Methods
+- [Cellular Automata](https://github.com/StarLight1212/Classic-Algorithm/blob/main/Classic%20Mathematics%20Model/CellularAutomata.py)
+- [Monte Carlo Methods](https://github.com/StarLight1212/Classic-Algorithm/blob/main/Classic%20Mathematics%20Model/monte_carlo.py)
 - Gradient Descent
 
 Each algorithm has a separate directory containing the implementation code and a brief description of the algorithm.
